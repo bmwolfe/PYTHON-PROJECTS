@@ -1,0 +1,12 @@
+{
+    "alive": "true",
+    "id": "enemy1",
+    "position": {
+        "x": 3042,
+        "y": 1540
+    },
+    "stats": {
+        "speed": 3,
+        "health": 100
+    }
+}
