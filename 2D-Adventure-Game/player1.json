@@ -1,11 +1,11 @@
 {
     "id": "player1",
     "position": {
-        "x": 2971,
-        "y": 1509
+        "x": 3402,
+        "y": 1598
     },
     "stats": {
         "speed": 3,
-        "health": 10
+        "health": -5
     }
 }

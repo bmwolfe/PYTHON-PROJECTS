@@ -2,8 +2,8 @@
     "alive": "true",
     "id": "enemy1",
     "position": {
-        "x": 3042,
-        "y": 1540
+        "x": 2056,
+        "y": 1049
     },
     "stats": {
         "speed": 3,
